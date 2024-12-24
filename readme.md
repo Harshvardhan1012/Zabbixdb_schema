@@ -27,7 +27,7 @@ dbdocs login
 Build the project on `dbdocs`:
 
 ```bash
-dbdocs build database.dbml --project Ecommerce
+dbdocs build database.dbml --project ZabbixSchema
 ```
 
 
